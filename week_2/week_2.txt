@@ -7,3 +7,6 @@ touch
 rmdir
 cat: see content of a file
 
+
+cp :  copy files and folder,
+example: cp sourceFile dstFile
