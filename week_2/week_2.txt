@@ -10,3 +10,4 @@ cat: see content of a file
 
 cp :  copy files and folder,
 example: cp sourceFile dstFile
+cp one.text two.text
