@@ -1,0 +1,9 @@
+https://github.com/sojoudian
+/root = / + root
+/bin = / + bin
+mkdir
+rm: remove
+touch
+rmdir
+cat: see content of a file
+
